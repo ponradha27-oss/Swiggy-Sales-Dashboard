@@ -1,17 +1,18 @@
  Swiggy Restaurant Analysis Dashboard | Power BI
 
 
-Project Overview
-
-This project is an interactive Swiggy Restaurant Analysis Dashboard developed using Microsoft Power BI.
-
-The dashboard analyzes restaurant data based on city, cuisine, rating, and cost, providing meaningful insights through interactive visualizations.
-
 Dashboard Preview
 
 ![Swiggy-Sales-Dashboard](Swiggy-Sales-Dashboard.jpg)
 
 
+
+
+Project Overview
+
+This project is an interactive Swiggy Restaurant Analysis Dashboard developed using Microsoft Power BI.
+
+The dashboard analyzes restaurant data based on city, cuisine, rating, and cost, providing meaningful insights through interactive visualizations.
 
  Project Objectives
 
